@@ -1,0 +1,6 @@
+{
+  "name": "إدارة المزرعة",
+  "description": "نظام ذكي وشامل لإدارة المزرعة وجداول البيانات لتتبع الأراضي، المحاصيل، العمليات، المخازن، والحيوانات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
